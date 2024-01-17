@@ -1,4 +1,4 @@
-docker run --rm \
+worker: docker run --rm \
   --name vscode-server \
   --hostname vscode \
   -p 8000:8000 \
