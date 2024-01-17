@@ -1,1 +1,1 @@
-chmod +x /usr/local/bin/code-server
+worker: chmod +x /usr/local/bin/code-server
